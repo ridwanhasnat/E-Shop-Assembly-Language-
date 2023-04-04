@@ -1,0 +1,2 @@
+- An online Shop (E-shop) using assembly language. 
+- A project that was done for the course "Computational Organisation and Architecture"
